@@ -1,0 +1,10 @@
+AdWords API,Google Ads API
+AccountDescriptiveName,customer.descriptive_name
+AdGroupCreativesCount,Count can be gathered using info from Association resources.
+AdGroupCriteriaCount,See AdGroupCreativesCount note.
+AdGroupsCount,See AdGroupCreativesCount note.
+CampaignsCount,See AdGroupCreativesCount note.
+ExternalCustomerId,customer.id
+LabelId,label.id
+LabelName,label.name
+UserListsCount,See AdGroupCreativesCount note.

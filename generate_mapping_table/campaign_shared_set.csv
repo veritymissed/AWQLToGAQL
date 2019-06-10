@@ -1,0 +1,10 @@
+AdWords API,Google Ads API
+AccountDescriptiveName,customer.descriptive_name
+CampaignId,campaign.id
+CampaignName,campaign.name
+CampaignStatus,campaign.status
+ExternalCustomerId,customer.id
+SharedSetId,shared_set.id
+SharedSetName,shared_set.name
+SharedSetType,shared_set.type
+Status,campaign_shared_set.status

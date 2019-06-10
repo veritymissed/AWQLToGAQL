@@ -1,0 +1,7 @@
+AdWords API,Google Ads API
+AccountDescriptiveName,customer.descriptive_name
+Criteria,shared_criterion.keyword.text || shared_criterion.placement.url || etc.
+ExternalCustomerId,customer.id
+Id,shared_criterion.criterion_id
+KeywordMatchType,shared_criterion.keyword.match_type
+SharedSetId,shared_set.id

@@ -1,0 +1,14 @@
+AdWords API,Google Ads API
+AccountCurrencyCode,customer.currency_code
+AccountDescriptiveName,customer.descriptive_name
+AccountTimeZone,customer.time_zone
+BaseCampaignId,UPCOMING RELEASE
+CampaignId,campaign.id
+CampaignName,campaign.name
+CampaignStatus,campaign.status
+Criteria,campaign_criterion.keyword.text || campaign_criterion.placement.url || etc.
+CriteriaType,campaign_criterion.type
+CustomerDescriptiveName,customer.descriptive_name
+ExternalCustomerId,customer.id
+Id,campaign_criterion.criterion_id
+IsNegative,campaign_criterion.negative

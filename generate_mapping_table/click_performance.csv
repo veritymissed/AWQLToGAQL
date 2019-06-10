@@ -1,0 +1,39 @@
+AdWords API,Google Ads API
+AccountDescriptiveName,customer.descriptive_name
+AdFormat,DEPRECATED
+AdGroupId,ad_group.id
+AdGroupName,ad_group.name
+AdGroupStatus,ad_group.status
+AdNetworkType1,DEPRECATED
+AdNetworkType2,segments.ad_network_type
+AdVariationControlTrialArmId,UPCOMING RELEASE
+AdVariationTreatmentTrialArmId,UPCOMING RELEASE
+AdVariationTrialId,UPCOMING RELEASE
+AoiCityCriteriaId,click_view.area_of_interest.city
+AoiCountryCriteriaId,click_view.area_of_interest.country
+AoiMetroCriteriaId,click_view.area_of_interest.metro
+AoiMostSpecificTargetId,click_view.area_of_interest.most_specific
+AoiRegionCriteriaId,click_view.area_of_interest.region
+CampaignId,campaign.id
+CampaignLocationTargetId,UPCOMING RELEASE
+CampaignName,campaign.name
+CampaignStatus,campaign.status
+Clicks,metrics.clicks
+ClickType,segments.click_type
+CreativeId,UPCOMING RELEASE
+CriteriaId,UPCOMING RELEASE
+CriteriaParameters,DEPRECATED
+Date,segments.date
+Device,segments.device
+ExternalCustomerId,customer.id
+GclId,click_view.gclid
+KeywordMatchType,UPCOMING RELEASE
+LopCityCriteriaId,click_view.location_of_presence.city
+LopCountryCriteriaId,click_view.location_of_presence.country
+LopMetroCriteriaId,click_view.location_of_presence.metro
+LopMostSpecificTargetId,click_view.location_of_presence.most_specific
+LopRegionCriteriaId,click_view.location_of_presence.region
+MonthOfYear,segments.month_of_year
+Page,click_view.page_number
+Slot,segments.slot
+UserListId,UPCOMING RELEASE

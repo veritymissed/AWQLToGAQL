@@ -36,6 +36,7 @@
   },
   "homepage": "https://github.com/lili668668/awqlqb#readme",
   "dependencies": {
+    "csv-parser": "^2.3.0",
     "moment": "^2.22.2"
   },
   "devDependencies": {

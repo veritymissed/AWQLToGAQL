@@ -1,0 +1,56 @@
+AdWords API,Google Ads API
+ActiveViewCpm,metrics.active_view_cpm
+ActiveViewCtr,metrics.active_view_ctr
+ActiveViewImpressions,metrics.active_view_impressions
+ActiveViewMeasurability,metrics.active_view_measurability
+ActiveViewMeasurableCost,metrics.active_view_measurable_cost_micros
+ActiveViewMeasurableImpressions,metrics.active_view_measurable_impressions
+ActiveViewViewability,metrics.active_view_viewability
+AdGroupId,ad_group.id
+AdGroupName,ad_group.name
+AdGroupStatus,ad_group.status
+AdNetworkType1,DEPRECATED
+AdNetworkType2,segments.ad_network_type
+AdvertisingChannelType,campaign.advertising_channel_type
+AllConversions,metrics.all_conversions
+AverageCost,metrics.average_cost
+AverageCpc,metrics.average_cpc
+AverageCpe,metrics.average_cpe
+AverageCpm,metrics.average_cpm
+AverageCpv,metrics.average_cpv
+AveragePosition,metrics.average_position
+CampaignId,campaign.id
+CampaignName,campaign.name
+CampaignStatus,campaign.status
+Clicks,metrics.clicks
+ClickType,segments.click_type
+ConversionRate,metrics.conversions_from_interactions_rate
+Conversions,metrics.conversions
+ConversionValue,metrics.conversions_value
+Cost,metrics.cost_micros
+CostPerConversion,metrics.cost_per_conversion
+CrossDeviceConversions,metrics.cross_device_conversions
+Ctr,metrics.ctr
+Date,segments.date
+DayOfWeek,segments.day_of_week
+Device,segments.device
+EngagementRate,metrics.engagement_rate
+Engagements,metrics.engagements
+ExpandedFinalUrlString,UPCOMING RELEASE
+Impressions,metrics.impressions
+InteractionRate,metrics.interaction_rate
+Interactions,metrics.interactions
+InteractionTypes,metrics.interaction_event_types
+Month,segments.month
+MonthOfYear,segments.month_of_year
+PercentageMobileFriendlyClicks,UPCOMING RELEASE
+PercentageValidAcceleratedMobilePagesClicks,UPCOMING RELEASE
+Quarter,segments.quarter
+Slot,segments.slot
+SpeedScore,UPCOMING RELEASE
+UnexpandedFinalUrlString,UPCOMING RELEASE
+ValuePerConversion,metrics.value_per_conversion
+VideoViewRate,metrics.video_view_rate
+VideoViews,metrics.video_views
+Week,segments.week
+Year,segments.year
